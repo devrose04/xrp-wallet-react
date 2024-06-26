@@ -1,1 +1,1 @@
-# xrp-wallet-react
+# React + TypeScript + Vite + Tailwind
